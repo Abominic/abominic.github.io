@@ -1,0 +1,8 @@
+{
+  "short_name": "Dom's Flag Guessing Game",
+  "name": "Create React App Sample",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#222222"
+}
